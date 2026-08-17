@@ -1,0 +1,17 @@
+==== Diabetes Risk Report ====
+Patient ID: patient100
+Gender: 1
+AGE: 25.0
+Urea: 5.0
+Cr: 80.0
+HbA1c: 6.2
+Chol: 4.4
+TG: 1.0
+HDL: 2.0
+LDL: 1.7
+VLDL: 0.6
+BMI: 29.0
+
+Prediction: Prediabetic
+Risk Level: Moderate (50.00%)
+Health Tips: Maintain a healthy weight. Monitor blood sugar regularly.

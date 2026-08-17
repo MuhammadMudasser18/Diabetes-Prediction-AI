@@ -1,0 +1,17 @@
+==== Diabetes Risk Report ====
+Patient ID: testx2
+Gender: 0
+AGE: 34.0
+Urea: 4.1
+Cr: 72.0
+HbA1c: 5.6
+Chol: 4.9
+TG: 1.2
+HDL: 2.3
+LDL: 1.6
+VLDL: 0.5
+BMI: 23.0
+
+Prediction: Non-diabetic
+Risk Level: High (80.00%)
+Health Tips: Keep up your healthy lifestyle!

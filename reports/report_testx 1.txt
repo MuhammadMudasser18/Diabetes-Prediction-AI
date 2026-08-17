@@ -1,0 +1,17 @@
+==== Diabetes Risk Report ====
+Patient ID: testx 1
+Gender: 1
+AGE: 47.0
+Urea: 6.2
+Cr: 69.0
+HbA1c: 7.0
+Chol: 5.7
+TG: 1.6
+HDL: 1.7
+LDL: 2.2
+VLDL: 0.8
+BMI: 27.0
+
+Prediction: Diabetic
+Risk Level: High (93.00%)
+Health Tips: Maintain a healthy weight. Monitor blood sugar regularly. Control cholesterol through diet.

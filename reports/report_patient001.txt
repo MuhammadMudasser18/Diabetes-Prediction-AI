@@ -1,0 +1,17 @@
+==== Diabetes Risk Report ====
+Patient ID: patient001
+Gender: 1
+AGE: 50.0
+Urea: 4.7
+Cr: 90.0
+HbA1c: 4.9
+Chol: 4.2
+TG: 9.9
+HDL: 2.4
+LDL: 1.4
+VLDL: 0.5
+BMI: 30.0
+
+Prediction: Non-diabetic
+Risk Level: Moderate (54.75%)
+Health Tips: Maintain a healthy weight.
